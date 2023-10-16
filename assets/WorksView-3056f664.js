@@ -1,1 +1,0 @@
-import{o as s,c as t,b as a,e as o,a as e,F as n}from"./index-d0389118.js";import"./flowbite-vue-9a53d694.js";const c=e("div",{class:"child-page-listing"},[e("h1",{class:"text-3xl font-bold font-sans"},"MY WORK"),e("div",{class:"grid-container"})],-1),p={__name:"WorksView",setup(r){return(_,l)=>(s(),t(o,null,[c,a(n)],64))}};export{p as default};
